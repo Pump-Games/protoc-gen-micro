@@ -1,4 +1,4 @@
-module protoc-gen-micro
+module github.com/pump-games/protoc-gen-micro
 
 go 1.19
 
